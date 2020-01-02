@@ -1,6 +1,6 @@
 # Project 10 build a survey 
 
-Project week 10 @ Technigo Bootcamp was to use React to build a survey form. When the user presses submit, you should see a summary of the answers.
+Project 10 objective was to use React to build a survey form. When the user engages and presses submit, the answer appears as a summary on the screen.
 
 
 
