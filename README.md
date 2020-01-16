@@ -17,4 +17,4 @@ Project 10 objective was to use React to build a survey form. When the user enga
 * JSX
 
 ##
-deployed site: https://redux-quiz-orange.netlify.com
+deployed site: 
